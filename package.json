@@ -1,0 +1,23 @@
+{
+  "name": "testing_practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalakb/Testing_practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisalakb/Testing_practise/issues"
+  },
+  "homepage": "https://github.com/faisalakb/Testing_practise#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
